@@ -1,0 +1,65 @@
+body
+{
+   
+}
+
+.UG
+{
+ 
+    border: 2px solid black;
+    margin: 50px;
+    box-shadow: 5px 5px 5px 2px  rgb(74, 74, 74);
+    height: 1300px;
+   
+}
+
+.UG:hover
+{
+ 
+    border: 2px double black;
+    box-shadow: 5px 5px 5px 2px  rgb(74, 74, 74);
+}
+
+.title
+{
+    font-size: 25px;
+    border-bottom: solid black 1px;
+    text-align: center;
+    background-color:rgb(53, 53, 136);
+    padding: 20px 20px;
+    font-weight: bold;
+    color: white;
+    
+}
+.p
+{
+ text-align: justify;
+ padding: 20px;
+ font-size: 20px;
+}
+
+.table
+{
+    margin: 20px;
+    border:  2px solid black;
+    box-shadow:5px 5px 5px 2px  rgb(97, 97, 97);
+    width: 800px;
+}
+
+.th
+{
+    color: black;
+    background-color:wheat;
+}
+
+.td
+{
+   
+    color:black;
+}
+
+.pn
+{
+    padding: 20px;
+    font-size: 20px;
+}
